@@ -1,0 +1,18 @@
+{
+  "users" : {
+    "7087363393" : {
+      "email" : "anichaudhri@gmail.com",
+      "name" : "Aniket Chaudhri",
+      "password" : "aniket",
+      "phoneNo" : "7087363393",
+      "username" : "anichaudhri"
+    },
+    "7550144393" : {
+      "email" : "abhichaudhri@gmail.com",
+      "name" : "Abhishek",
+      "password" : "jsbska",
+      "phoneNo" : "7550144393",
+      "username" : "abhishek"
+    }
+  }
+}
